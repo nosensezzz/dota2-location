@@ -8,4 +8,6 @@ Dota2Location.try = function(){
 	console.log(location);
 };
 
-exports = Dota2Location;
+exports = {
+	try : Dota2Location.try
+};
