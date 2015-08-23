@@ -1,0 +1,23 @@
+{
+  "name": "dota2-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosensezzz/dota2-location.git"
+  },
+  "keywords": [
+    "dota2",
+    "location"
+  ],
+  "author": "nosensezzz <nosensezzz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosensezzz/dota2-location/issues"
+  },
+  "homepage": "https://github.com/nosensezzz/dota2-location#readme"
+}
