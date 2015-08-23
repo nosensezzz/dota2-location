@@ -1,10 +1,10 @@
 var location = require("./lib/steam_countries.min.json");
 
 function Dota2Location(){
-
+	
 }
 
-Dota2Location.prototype.try = function(){
+Dota2Location.try = function(){
 	console.log(location);
 };
 
